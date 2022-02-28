@@ -1,0 +1,26 @@
+segment_sources:
+  PC71394B9:
+    type: origin_type
+    relation: translation
+    language: en
+  PA80808CF:
+    type: origin_type
+    relation: translation
+    language: zh
+  P4781E4BC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  54de98e70ad743bcb533470ff7960453:
+    PC71394B9: e2746c651fe84228a30f68a575b2e86e
+    PA80808CF: 195047af46664109817c3f2e7d3145c0
+    P4781E4BC: aa19dd33662347b884effc1f4abbe23f
+  e6cd6370a561408bb0e44d3e5fd83b27:
+    PC71394B9: f4fa61a7244d4cfdb25beafdcb1504a4
+    PA80808CF: 5ecb4f8e80784007b0e0052ef4fa5719
+    P4781E4BC: c0d7e237456f421aaa95cb300900d92d
+  b63477b10fde46a69eee11778df0cee4:
+    PC71394B9: 67e09726cb1b4aeabaefdf5c30c849a5
+    PA80808CF: 38bb515895e34d1584155db70d234db1
+    P4781E4BC: af999e1a3a4148a58583995b213f8dd7
